@@ -1,0 +1,23 @@
+
+#include "nave.h"
+
+
+/**
+ * @brief nave::nave
+ * @param vida
+ * @param posx
+ * @param posy
+ */
+nave :: nave(int vida,int posx, int posy, int municiones)
+{
+
+    Vida = vida;
+    Posx = posx;
+    Posy = posy;
+    Municiones = municiones;
+
+
+
+
+
+}
